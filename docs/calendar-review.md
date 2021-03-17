@@ -10,7 +10,7 @@ This document discusses why and how calendar systems are included in the Tempora
 
 Calendar systems provide a way to assign human-readable numbers, such as year, month, and day, to a particular period of time.
 
-Much of the world uses the Gregorian calendar system, which uses solar years, months, and days: over time, it is aligned with the position of the Earth relative to the sun.  However, there are other calendar systems used throughout much of the world.  Some popular calendar systems include Hebrew, Islamic, Buddhist, Hindu, Chinese, Japanese, and Ethiopic.
+Much of the world uses the Gregorian calendar system, which uses solar years, months, and days: over time, it remains synchronised with the cycle of he seasons. However, there are other calendar systems used throughout much of the world.  Some popular calendar systems include Hebrew, Islamic, Buddhist, Hindu, Chinese, Japanese, and Ethiopic.
 
 Today's date is March 4, 2021 in the Gregorian calendar.  Here are several other representations of that date:
 
